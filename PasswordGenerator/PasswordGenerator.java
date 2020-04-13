@@ -73,7 +73,7 @@ public class PasswordGenerator {
 			shuffledPassword.append(str.remove(randPicker)); // this where the main shuffling takes place
 
 		}
-
+		
 		System.out.println("New Password: " + shuffledPassword);
 	}
 
