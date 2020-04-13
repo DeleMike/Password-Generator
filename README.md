@@ -1,4 +1,4 @@
-#Password-Generator
+#PasswordGenerator
 
 Password generator is used to generate a random but efficient password.
 
