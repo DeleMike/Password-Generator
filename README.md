@@ -1,4 +1,6 @@
-## Password Generator
+### Password Generator
+
+## Table of Contents
 *[General info](#general-info)
 *[Technologies](#technologies)
 
